@@ -1,0 +1,1 @@
+Wing is a modern WYSIWYG editor for jQuery. It uses browser-native contentEditable instead of iframes.
